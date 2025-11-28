@@ -104,8 +104,7 @@ Focused on Java development, cybersecurity fundamentals, and scalable project de
 
 ## 📫 Contact
 
-- **LinkedIn:** (www.linkedin.com/in/ranveer-waghela)  
-- **GitHub:** (Repo link here)  
+- **LinkedIn:** (www.linkedin.com/in/ranveer-waghela)   
 
 ---
 
