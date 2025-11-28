@@ -80,8 +80,8 @@ Please choose from the below options to perform further operations :
 3. Get expense details
 4. RESET the Trip
 5. EXIT THE PROGRAM
+Enter Choice:
 
-Enter choice :
 ---
 
 ## 📊 Future Enhancements
