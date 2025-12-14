@@ -69,7 +69,7 @@ java Split_Wise
 
 ---
 
-## 📈 Sample Output (Optional)
+## 📈 Sample Output 
 
 Welcome to SPLIT - WISE
 The only TREASURER for your trip
